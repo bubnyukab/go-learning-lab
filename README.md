@@ -8,7 +8,7 @@
 - https://go.dev/doc/effective_go
 - https://beej.us/guide
 
-# 🚀 Go Learning Plan (Zero-Waste)
+# Go Learning Plan
 
 ⏱️ Daily time: **2–4 hours**  
 🎯 Rule: *Finish the checklist, then stop*
@@ -18,9 +18,9 @@
 # 📅 Week 1 — Foundation + Momentum
 
 ## Day 1
-- [ ] Complete 50% of A Tour of Go  
-- [ ] Write 3 small code examples (slices, loops, functions)  
-- [ ] Create repo `go-learning-lab`  
+- [x] Complete 50% of A Tour of Go  
+- [x] Write 3 small code examples (slices, loops, functions)  
+- [x] Create repo `go-learning-lab`  
 
 ---
 
