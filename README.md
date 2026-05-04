@@ -26,7 +26,7 @@
 
 ## Day 2
 - [ ] Finish A Tour of Go  
-- [ ] Write 2 examples (structs + maps)  
+- [x] Write 2 examples (structs + maps)  
 - [ ] Skim concurrency section (don’t stress)  
 
 ---
