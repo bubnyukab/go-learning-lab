@@ -1,7 +1,7 @@
 # Go Learning Lab
 
 ## Resources:
-- https://go.dev/tour/list
+- https://go.dev/tour/list :white_check_mark:
 - https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
 - https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
 - https://12factor.net/
