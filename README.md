@@ -25,9 +25,9 @@
 ---
 
 ## Day 2
-- [ ] Finish A Tour of Go  
+- [x] Finish A Tour of Go  
 - [x] Write 2 examples (structs + maps)  
-- [ ] Skim concurrency section (don’t stress)  
+- [x] Skim concurrency section (don’t stress)  
 
 ---
 

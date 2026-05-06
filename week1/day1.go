@@ -28,11 +28,11 @@ func Day1() {
 
 	// for Sqrt func 
 	num := 32.0
-	fmt.Println(Sqrt(num))
+	fmt.Println(Sqrt1(num))
 	fmt.Println(math.Sqrt(num))
 }
 
-func Sqrt(x float64) float64 {
+func Sqrt1(x float64) float64 {
 	z := 1.0
 
 	//for i:= 0; i < 10; i++ {		
