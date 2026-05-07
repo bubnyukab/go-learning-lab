@@ -15,7 +15,8 @@
 
 ---
 
-# 📅 Week 1 — Foundation + Momentum
+<details>
+<summary><h1>📅 Week 1 — Foundation + Momentum</h1></summary>
 
 ## Day 1
 - [x] Complete 50% of A Tour of Go  
@@ -72,9 +73,12 @@
 - [ ] Add feature to your project  
 - [ ] Light review (no new heavy learning)  
 
+</details>
+
 ---
 
-# 📅 Week 2 — Build + Real-world thinking
+<details>
+<summary><h1>📅 Week 2 — Build + Real-world thinking</h1></summary>
 
 ## Day 8
 - [ ] Learn Go with Tests  
@@ -128,9 +132,12 @@
 - [ ] Clean codebase  
 - [ ] Review everything built so far  
 
+</details>
+
 ---
 
-# 📅 Week 3 — Polish + Depth
+<details>
+<summary><h1>📅 Week 3 — Polish + Depth</h1></summary>
 
 ## Day 15
 - [ ] Add 1 advanced feature (your choice)  
@@ -177,11 +184,13 @@
   - [ ] What was hard?  
 - [ ] Decide next project  
 
+</details>
+
 ---
 
 # 🔑 Daily Rules (Don’t Skip)
 - ⛔ Don’t get stuck >10 minutes  
 - ⛔ Don’t aim for perfect  
 - ✅ Always build something small  
-- ✅ Always apply at least 1 idea   Refactor using Pragmatic Programmer ideas
-
+- ✅ Always apply at least 1 idea 
+- ✅ Focus on consistency over intensity
