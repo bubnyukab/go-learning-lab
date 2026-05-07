@@ -16,7 +16,7 @@
 ---
 
 <details>
-<summary><h1>📅 Week 1 — Foundation + Momentum</h1></summary>
+<summary><h2>📅 Week 1 — Foundation + Momentum</h2></summary>
 
 ## Day 1
 - [x] Complete 50% of A Tour of Go  
@@ -78,7 +78,7 @@
 ---
 
 <details>
-<summary><h1>📅 Week 2 — Build + Real-world thinking</h1></summary>
+<summary><h2>📅 Week 2 — Build + Real-world thinking</h2></summary>
 
 ## Day 8
 - [ ] Learn Go with Tests  
@@ -137,7 +137,7 @@
 ---
 
 <details>
-<summary><h1>📅 Week 3 — Polish + Depth</h1></summary>
+<summary><h2>📅 Week 3 — Polish + Depth</h2></summary>
 
 ## Day 15
 - [ ] Add 1 advanced feature (your choice)  
