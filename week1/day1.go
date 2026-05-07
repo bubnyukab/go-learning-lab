@@ -6,6 +6,9 @@ import (
 )
 
 func Day1() {
+	fmt.Println("================== Day 1 =================")
+	
+
 	sum := 0
 	for i := 0; i < 10; i++ {
 		sum += i

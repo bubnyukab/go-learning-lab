@@ -33,11 +33,11 @@
 
 ## Day 3
 - [ ] Start Learn Go with Tests  
-  - [ ] Hello World  
+  - [x] Hello World  
   - [ ] Integers  
-- [ ] Try each exercise BEFORE looking at answers  
+- [x] Try each exercise BEFORE looking at answers  
 - [ ] Read 2 chapters of The Pragmatic Programmer  
-- [ ] Apply 1 idea to your code  
+- [x] Apply 1 idea to your code  
 
 ---
 

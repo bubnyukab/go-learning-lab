@@ -13,6 +13,8 @@ import (
 type IPAddr [4]byte
 
 func Day2() {
+	fmt.Println("================== Day 2 =================")
+
 	// maps exercise
 	wc.Test(wordCount)
 
