@@ -1,3 +1,4 @@
+// Package week1 is the first week of me learning go
 package week1 
 
 import (

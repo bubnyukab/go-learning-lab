@@ -37,33 +37,34 @@
   - [x] Hello World  
   - [x] Integers  
 - [x] Try each exercise BEFORE looking at answers  
-- [x] Read 2 chapters of The Pragmatic Programmer  
+- [x] Read 1 chapter of The Pragmatic Programmer  
 - [x] Apply 1 idea to your code  
 
 ---
 
 ## Day 4
-- [ ] Learn Go with Tests  
-  - [ ] Arrays & slices  
-- [ ] Build small example (custom list tool)  
-- [ ] Read 2 chapters of The Pragmatic Programmer  
-- [ ] Refactor something (naming or structure)  
+- [x] Learn Go with Tests  
+  - [x] Arrays & slices 
+  - [x] Iteration
+- [x] Build small example (custom list tool)  
+- [x] Read 1 chapter of The Pragmatic Programmer  
+- [x] Refactor something (naming or structure)  
 
 ---
 
 ## Day 5
 - [ ] Learn Go with Tests  
-  - [ ] Structs & methods  
+  - [ ] Structs, methods & interfaces
 - [ ] Create a simple CLI app idea (decide project)  
-- [ ] Read 2 chapters of The Pragmatic Programmer  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
 ## Day 6
 - [ ] Learn Go with Tests  
-  - [ ] Interfaces  
+  - [ ] Pointers & errors
 - [ ] Improve your project structure  
-- [ ] Read 2 chapters of The Pragmatic Programmer  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
@@ -84,7 +85,7 @@
 - [ ] Learn Go with Tests  
   - [ ] Dependency Injection  
 - [ ] Apply to your project  
-- [ ] Read 2 chapters of The Pragmatic Programmer  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
@@ -92,13 +93,14 @@
 - [ ] Learn Go with Tests  
   - [ ] HTTP servers (start)  
 - [ ] Build basic endpoint  
-- [ ] Read 2 chapters of The Pragmatic Programmer  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
 ## Day 10
 - [ ] Finish HTTP section  
 - [ ] Test your endpoints  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 - [ ] Start The Twelve-Factor App (first 6 factors)  
 
 ---
@@ -110,12 +112,14 @@
   - [ ] logging  
   - [ ] config separation  
 - [ ] Improve project structure  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
 ## Day 12
 - [ ] Add 1 meaningful feature to your project  
 - [ ] Start reading Effective Go (skim)  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
@@ -124,6 +128,7 @@
   - [ ] improve naming  
   - [ ] clean errors  
 - [ ] Refactor code (no new features)  
+- [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
