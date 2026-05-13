@@ -61,8 +61,8 @@
 ---
 
 ## Day 6
-- [ ] Learn Go with Tests  
-  - [ ] Pointers & errors
+- [x] Learn Go with Tests  
+  - [x] Pointers & errors
 - [ ] Improve your project structure  
 - [ ] Read 1 chapter of The Pragmatic Programmer  
 
