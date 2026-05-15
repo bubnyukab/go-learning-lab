@@ -40,7 +40,7 @@ func assertBalance(t testing.TB, wallet Wallet, want Bitcoin) {
 
 func assertNoError(t testing.TB, got error) {
 	t.Helper()
-	if got == nil {
+	if got != nil {
 		t.Fatal("got an error but didn't want one")
 	}
 }
