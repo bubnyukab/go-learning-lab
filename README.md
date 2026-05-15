@@ -63,16 +63,16 @@
 ## Day 6
 - [x] Learn Go with Tests  
   - [x] Pointers & errors
-- [ ] Improve your project structure  
+- [x] Improve your project structure  
 - [ ] Read 1 chapter of The Pragmatic Programmer  
 
 ---
 
 ## Day 7
-- [ ] Learn Go with Tests  
-  - [ ] Maps  
-- [ ] Add feature to your project  
-- [ ] Light review (no new heavy learning)  
+- [x] Learn Go with Tests  
+  - [x] Maps  
+- [x] Add feature to your project  
+- [x] Light review (no new heavy learning)  
 
 </details>
 
