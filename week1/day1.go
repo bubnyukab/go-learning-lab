@@ -1,5 +1,5 @@
 // Package week1 is the first week of me learning go
-package week1 
+package week1
 
 import (
 	"fmt"
@@ -8,29 +8,27 @@ import (
 
 func Day1() {
 	fmt.Println("================== Day 1 =================")
-	
 
 	sum := 0
 	for i := 0; i < 10; i++ {
 		sum += i
 	}
 	fmt.Println(sum)
-	
-	// reverse loop 
+
+	// reverse loop
 	for i := 10; i > 0; i-- {
 		fmt.Println(i)
 	}
-	
+
 	// reverse string
 	s := "yourmama"
 	reversed_s := ""
-	for i := len(s)-1; i >= 0; i-- {
-		reversed_s += string(s[i]) 	
+	for i := len(s) - 1; i >= 0; i-- {
+		reversed_s += string(s[i])
 	}
 	fmt.Println(s, reversed_s)
 
-
-	// for Sqrt func 
+	// for Sqrt func
 	num := 32.0
 	fmt.Println(Sqrt1(num))
 	fmt.Println(math.Sqrt(num))
@@ -39,23 +37,22 @@ func Day1() {
 func Sqrt1(x float64) float64 {
 	z := 1.0
 
-	//for i:= 0; i < 10; i++ {		
+	//for i:= 0; i < 10; i++ {
 	//	z -= (z*z - x) / (2*z)
-	//	
+	//
 	//	fmt.Println(z)
 	//}
-	
+
 	for {
 		next := z - (z*z-x)/(2*z)
-	
+
 		if next-z < 0.0000000001 && next-z > -0.0000000001 {
-		break
+			break
 		}
 
 		z = next
 	}
 
-	
 	return z
 }
 
@@ -64,8 +61,8 @@ func Pic(dx, dy int) [][]uint8 {
 	for i := range pic {
 		pic[i] = make([]uint8, dy)
 		for j := range pic[i] {
-            pic[i][j] = uint8((i^j)*2)
-        }
+			pic[i][j] = uint8((i ^ j) * 2)
+		}
 	}
-	return pic 
+	return pic
 }

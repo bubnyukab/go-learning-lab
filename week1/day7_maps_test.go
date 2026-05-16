@@ -56,7 +56,6 @@ func TestUpdate(t *testing.T) {
 
 		assertErrorMaps(t, err, nil)
 		assertDefinition(t, dictionary, word, newDefinition)
-
 	})
 
 	t.Run("new word", func(t *testing.T) {
@@ -67,7 +66,6 @@ func TestUpdate(t *testing.T) {
 		err := dictionary.Update(word, definition)
 
 		assertErrorMaps(t, err, ErrWordDoesNotExist)
-
 	})
 }
 
