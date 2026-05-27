@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/bubnyukab/go-learning-lab/week1"
+	"github.com/bubnyukab/go-learning-lab/week2"
 )
 
 func main() {
@@ -9,5 +9,7 @@ func main() {
 	//	pic.Show(week1.Pic)
 	//	week1.Day2()
 	//	week1.Day3()
-	week1.Day4()
+	//	week1.Day4()
+
+	week2.NotMain()
 }

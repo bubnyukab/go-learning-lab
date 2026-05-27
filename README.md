@@ -91,9 +91,10 @@
 
 ## Day 8
 
-- [ ] Learn Go with Tests
-  - [ ] Dependency Injection
-- [ ] Apply to your project
+- [x] Learn Go with Tests
+  - [x] Dependency Injection
+  - [x] Mocking
+- [x] Apply to your project
 - [ ] Read 1 chapter of The Pragmatic Programmer
 
 ---
