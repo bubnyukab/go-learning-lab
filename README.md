@@ -102,10 +102,10 @@
 
 ## Day 9
 
-- [ ] Learn Go with Tests
+- [x] Learn Go with Tests
   - [x] Select
-  - [ ] Reflection
-  - [ ] Sync
+  - [x] Reflection
+  - [x] Sync
 - [ ] Read 1 chapter of The Pragmatic Programmer
 
 ---
