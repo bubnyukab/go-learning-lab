@@ -62,7 +62,7 @@
 - [x] Learn Go with Tests
   - [x] Structs, methods & interfaces
 - [x] Create a simple CLI app idea (decide project)
-- [ ] Read 1 chapter of The Pragmatic Programmer
+- [x] Read 1 chapter of The Pragmatic Programmer
 
 ---
 
