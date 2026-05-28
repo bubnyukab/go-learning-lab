@@ -94,6 +94,7 @@
 - [x] Learn Go with Tests
   - [x] Dependency Injection
   - [x] Mocking
+  - [x] Concurrency
 - [x] Apply to your project
 - [ ] Read 1 chapter of The Pragmatic Programmer
 
@@ -102,16 +103,18 @@
 ## Day 9
 
 - [ ] Learn Go with Tests
-  - [ ] HTTP servers (start)
-- [ ] Build basic endpoint
+  - [x] Select
+  - [ ] Reflection
+  - [ ] Sync
 - [ ] Read 1 chapter of The Pragmatic Programmer
 
 ---
 
 ## Day 10
 
-- [ ] Finish HTTP section
-- [ ] Test your endpoints
+- [ ] Learn Go with Tests
+  - [ ] Context
+  - [ ] Intro to property based tests
 - [ ] Read 1 chapter of The Pragmatic Programmer
 - [ ] Start The Twelve-Factor App (first 6 factors)
 
@@ -120,6 +123,9 @@
 ## Day 11
 
 - [ ] Finish The Twelve-Factor App
+- [ ] Learn Go with Tests
+  - [ ] Maths
+  - [ ] Reading Files
 - [ ] Apply:
   - [ ] env variables
   - [ ] logging
