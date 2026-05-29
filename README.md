@@ -112,11 +112,11 @@
 
 ## Day 10
 
-- [ ] Learn Go with Tests
-  - [ ] Context
-  - [ ] Intro to property based tests
+- [x] Learn Go with Tests
+  - [x] Context
+  - [x] Intro to property based tests
 - [ ] Read 1 chapter of The Pragmatic Programmer
-- [ ] Start The Twelve-Factor App (first 6 factors)
+- [x] Start The Twelve-Factor App (first 6 factors)
 
 ---
 
