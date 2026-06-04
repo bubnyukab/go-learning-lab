@@ -5,7 +5,7 @@
 - https://go.dev/tour/list :white_check_mark:
 - https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
 - https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
-- https://12factor.net/
+- https://12factor.net/ :white_check_mark:
 - https://go.dev/doc/effective_go
 - https://beej.us/guide
 
@@ -122,21 +122,22 @@
 
 ## Day 11
 
-- [ ] Finish The Twelve-Factor App
-- [ ] Learn Go with Tests
-  - [ ] Maths
-  - [ ] Reading Files
-- [ ] Apply:
-  - [ ] env variables
-  - [ ] logging
-  - [ ] config separation
-- [ ] Improve project structure
+- [x] Finish The Twelve-Factor App
+- [x] Learn Go with Tests
+  - [x] Maths
+- [x] Apply:
+  - [x] env variables
+  - [x] logging
+  - [x] config separation
+- [x] Improve project structure
 - [ ] Read 1 chapter of The Pragmatic Programmer
 
 ---
 
 ## Day 12
 
+- [ ] Learn Go with Tests
+  - [ ] Reading Files
 - [ ] Add 1 meaningful feature to your project
 - [ ] Start reading Effective Go (skim)
 - [ ] Read 1 chapter of The Pragmatic Programmer
@@ -145,6 +146,8 @@
 
 ## Day 13
 
+- [ ] Learn Go with Tests
+  - [ ] Templating
 - [ ] Use Effective Go to:
   - [ ] improve naming
   - [ ] clean errors
@@ -155,6 +158,9 @@
 
 ## Day 14
 
+- [ ] Learn Go with Tests
+  - [ ] Generics
+  - [ ] Revisiting arrays and slices with generics
 - [ ] Add tests to your project
 - [ ] Clean codebase
 - [ ] Review everything built so far
