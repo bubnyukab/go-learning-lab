@@ -136,9 +136,9 @@
 
 ## Day 12
 
-- [ ] Learn Go with Tests
-  - [ ] Reading Files
-- [ ] Add 1 meaningful feature to your project
+- [x] Learn Go with Tests
+  - [x] Reading Files
+- [x] Add 1 meaningful feature to your project
 - [ ] Start reading Effective Go (skim)
 - [ ] Read 1 chapter of The Pragmatic Programmer
 
