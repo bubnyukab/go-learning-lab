@@ -146,8 +146,8 @@
 
 ## Day 13
 
-- [ ] Learn Go with Tests
-  - [ ] Templating
+- [x] Learn Go with Tests
+  - [x] Templating
 - [ ] Use Effective Go to:
   - [ ] improve naming
   - [ ] clean errors
