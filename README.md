@@ -158,9 +158,9 @@
 
 ## Day 14
 
-- [ ] Learn Go with Tests
-  - [ ] Generics
-  - [ ] Revisiting arrays and slices with generics
+- [x] Learn Go with Tests
+  - [x] Generics
+  - [x] Revisiting arrays and slices with generics
 - [ ] Add tests to your project
 - [ ] Clean codebase
 - [ ] Review everything built so far
